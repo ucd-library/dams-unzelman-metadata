@@ -34,7 +34,8 @@
     }
   ],
   "schema:identifier": [
-    "D-670_Printers_Ink_2011"
+    "D-670_Printers_Ink_2011",
+    "ark:/87293/d3gm82058"
   ],
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
