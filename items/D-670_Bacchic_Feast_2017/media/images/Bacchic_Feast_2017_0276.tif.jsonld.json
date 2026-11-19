@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "276",
+  "schema:alternativeHeadline": "Two glasses of red port wine and a bowl of dark grapes with the text 'Toast your friends in PORT'.\n\nIllustration of a sailing ship with red cross sails above wavy lines, with text reading 'Port Comes from Oporto in Portugal Only'.\n\nA standing man in a hat and cape holds a small object up to his eye.",
+  "ebucore:filename": "Bacchic_Feast_2017_0276.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

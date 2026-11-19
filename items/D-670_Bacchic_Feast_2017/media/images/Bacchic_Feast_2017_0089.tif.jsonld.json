@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "089",
+  "schema:alternativeHeadline": "Brown leather-bound book titled 'BROCHUS IN TUSCANY' with gold lettering and floral decorations on the spine.\n\nAn ornate bookplate with a marbled background, featuring an architectural scene and the text 'EX LIBRIS JOHN LOUIS KETTERUNUS'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0089.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

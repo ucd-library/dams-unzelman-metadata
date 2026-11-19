@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "323",
+  "schema:alternativeHeadline": "Decorative title block reading \"A Handbook to WINE\" framed by grapevines, above a portrait of a man holding a glass.\n\nIllustration of workers harvesting sugarcane with a wheelbarrow, above the text 'BACARDI PRESENTED BY SCHEINLEY'.\n\nStylized pink figure with raised hands beside a wine bottle, with text reading 'A SCHENLEY IMPORT' and 'DUBONNET'.\n\nBook cover for 'Marschino' by Francesco Drioli, featuring a portrait of a man in a gold frame and a red 'SCHENKLEY IMPORT' stamp.\n\nBook cover for 'Champagne' by Charles Heidsieck, featuring a red 'A SCHENLEY IMPORT' stamp.\n\nLabel for Barone Ricasoli Brolio Chianti wine featuring a coat of arms and text.",
+  "ebucore:filename": "Bacchic_Feast_2017_0323.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

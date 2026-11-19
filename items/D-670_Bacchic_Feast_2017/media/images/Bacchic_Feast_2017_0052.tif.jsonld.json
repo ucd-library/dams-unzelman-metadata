@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "052",
+  "schema:alternativeHeadline": "A thick, cream-colored book spine with a gold label, positioned next to a page of text.\n\nWoodcut illustration of a tree with grapes and leaves surrounding a central medallion of two figures, with a banner reading 'ALS' at the base.\n\nTitle page of 'Le vinti giornate dell'agricoltura' by M. Agostino Gallo, printed in Venetia in 1625, with a central female figure engraving.",
+  "ebucore:filename": "Bacchic_Feast_2017_0052.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

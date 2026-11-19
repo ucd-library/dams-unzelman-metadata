@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "161",
+  "schema:alternativeHeadline": "Red and black striped book box labeled 'WINES of the WORLD' and 'andre simon' with a wine bottle illustration.\n\nA set of books with yellow spines and a maroon cover featuring a decorative white design and a wine bottle illustration.\n\nStack of small books with red and green spines, including titles such as 'Champagne' and 'California', topped by a decorated red cover.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0161.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

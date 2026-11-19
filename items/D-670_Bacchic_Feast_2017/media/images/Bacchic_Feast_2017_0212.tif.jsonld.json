@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "212",
+  "schema:alternativeHeadline": "The book cover and spine of 'The Art of Good Living' by André L. Simon, showing the title and author's name in black text on a light background.\n\nCover of The Journal of the Royal Society of Arts, December 14, 1937, featuring a central emblem and founding dates.",
+  "ebucore:filename": "Bacchic_Feast_2017_0212.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

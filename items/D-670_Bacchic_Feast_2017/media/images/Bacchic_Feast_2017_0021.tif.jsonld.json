@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "021",
+  "schema:alternativeHeadline": "A closed, antique book with a dark red and black leather binding and gold detailing on the spine.\n\nA red book titled 'Journal of a Tour' rests on an open, aged document titled 'Journal of a Visit to the Principal Vineyards of Spain and France' by James Busby, Esq.",
+  "ebucore:filename": "Bacchic_Feast_2017_0021.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

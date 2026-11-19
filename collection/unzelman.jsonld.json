@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "Gail Unzelman Manuscripts",
+  "schema:description": "Two Manuscripts by Gail Unzelman",
+  "schema:identifier": [
+    "D-670"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:image": {
+    "@id": "@base:/thumbnail.jpg"
+  }
+}

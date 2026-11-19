@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "507",
+  "schema:alternativeHeadline": "Stack of vintage booklets, the top one titled 'CHAMPAGNE' from 'Education Committee Lectures, Session 1926-1927.'",
+  "ebucore:filename": "Bacchic_Feast_2017_0507.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

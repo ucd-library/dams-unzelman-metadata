@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "290",
+  "schema:alternativeHeadline": "A wooden bookshelf filled with numerous books, including titles on Port, Sherry, and Madeira, with a decorative vase on the top shelf.\n\nMaroon cloth portfolio with a black label reading 'Jos. James Forrester And His Maps Of The Portuguese Douro And The Adjacent Country'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0290.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "125",
+  "schema:alternativeHeadline": "Hardcover book titled 'IN PRAISE OF GOOD LIVING' with a dark cover featuring a red diamond lattice pattern and white food illustrations.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0125.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

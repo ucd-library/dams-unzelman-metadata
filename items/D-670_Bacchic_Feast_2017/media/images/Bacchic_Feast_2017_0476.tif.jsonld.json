@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "476",
+  "schema:alternativeHeadline": "A book titled 'Leland Stanford's Great Wine Feast' displayed next to a patterned cloth and a page from 'The Brady's' text.\n\nMaroon book cover and spine with gold lettering reading \"THE BRADY BOOK\" and a small gold emblem.\n\nAdvertisement for The Brady Book: Selections from Roy Brady's Unpublished Writings on Wine, featuring sample text and the phrase NOW AVAILABLE.\n\nTitle page for 'The Trial of the Wine-Brewers' by Joseph Addison, printed in San Francisco in 1930.\n\nBook cover titled 'The California Wine Association and its Member Wineries 1894–1920' featuring a historical building illustration.",
+  "ebucore:filename": "Bacchic_Feast_2017_0476.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

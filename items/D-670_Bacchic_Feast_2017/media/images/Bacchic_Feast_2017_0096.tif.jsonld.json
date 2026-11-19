@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "096",
+  "schema:alternativeHeadline": "A dark blue hardcover book titled 'The Flowing Bowl' with gold lettering on the spine and cover.\n\nA dark blue hardcover book titled 'PORTO OLD AND NEW' by L. Sellers, featuring a gold-embossed crest on the front cover.",
+  "ebucore:filename": "Bacchic_Feast_2017_0096.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

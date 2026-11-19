@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "409",
+  "schema:alternativeHeadline": "Title page for The Squire's Home-Made Wines, featuring red and black text with a Latin motto.\n\nOpen book showing a frontispiece with three wine bottles and a title page reading 'A Madeira Party' by S. Weir Mitchell.",
+  "ebucore:filename": "Bacchic_Feast_2017_0409.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

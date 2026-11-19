@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "475",
+  "schema:alternativeHeadline": "Book cover for 'Vintner in the Kitchen: Wine Cookery of the West' by Phil Stewart, featuring a wine glass and grape illustration.\n\nA roasted meat dish surrounded by fruit, with wine glasses and a bottle, under the heading 'Gourmet Wine Cooking the easy way'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0475.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

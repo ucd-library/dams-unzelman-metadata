@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "178",
+  "schema:alternativeHeadline": "Hardcover book titled 'Champagne' by André L. Simon, featuring a cover image of champagne bottles and glasses.\n\nTwo white hardcover books by André L. Simon titled 'The History of Champagne' and 'Champagne' standing upright.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0178.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

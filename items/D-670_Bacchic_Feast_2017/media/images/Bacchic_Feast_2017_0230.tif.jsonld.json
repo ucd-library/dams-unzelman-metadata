@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "230",
+  "schema:alternativeHeadline": "Book cover titled 'IN PRAISE OF GOOD LIVING' with a pattern of food illustrations.\n\nA 1919-1920 Wine Trade Club Education Committee prize certificate for Evening Classes, signed by the Chairman of the Education Committee.",
+  "ebucore:filename": "Bacchic_Feast_2017_0230.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

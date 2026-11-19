@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "392",
+  "schema:alternativeHeadline": "Vintage Kost-Probe wine label featuring two men in top hats, one drinking from a glass, with the text 'KOST-PROBE WINE On Noble Drinks: Wine, Champagne and Cognac'.\n\nBook cover for 'In Vino Veritas: Bookplates on Wine' by Boros Exlibrisek, featuring a central circular illustration of a face surrounded by grapevines.",
+  "ebucore:filename": "Bacchic_Feast_2017_0392.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

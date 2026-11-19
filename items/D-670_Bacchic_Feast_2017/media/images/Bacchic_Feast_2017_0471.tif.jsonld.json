@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "471",
+  "schema:alternativeHeadline": "Cover of 'A Prohibition Primer' featuring a cartoon of three people drinking and the quote 'A Prohibition Primer is something urgent.'\n\nStack of six wine books by Charles Sullivan, including titles such as Napa Wine and Sonoma Wine.",
+  "ebucore:filename": "Bacchic_Feast_2017_0471.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

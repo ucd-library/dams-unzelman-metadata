@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "068",
+  "schema:alternativeHeadline": "Title page of a book titled LEVINI LEMNIIS DE MIRACULIS OCCULTIS NATURAE LIB. IV, featuring a circular emblem with figures and the text IN VIGILA CONCORDIA.\n\nBrown leather-bound book with gold tooling and a red label on the spine.",
+  "ebucore:filename": "Bacchic_Feast_2017_0068.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

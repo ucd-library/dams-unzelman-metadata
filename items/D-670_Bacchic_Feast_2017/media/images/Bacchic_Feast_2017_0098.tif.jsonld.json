@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "098",
+  "schema:alternativeHeadline": "Two antique books, one with a brown leather spine and the other with a maroon cover featuring gold-embossed text reading 'THE WINE AND THE CELLAR' and a figure.\n\nA dark purple hardcover book with gold lettering on the cover reading 'WINES AND OTHER BEVERAGES FROM THE EARLIEST AGES to the PRESENT TIME'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0098.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

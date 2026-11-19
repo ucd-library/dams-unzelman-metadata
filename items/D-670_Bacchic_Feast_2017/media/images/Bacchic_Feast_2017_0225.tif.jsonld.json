@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "225",
+  "schema:alternativeHeadline": "Book cover titled \"The Elixir of Youth\" with subtitle \"Notes on Champagne, Graves, Sauternes, Chablis, Hock and other white wines, still and sparkling.\"",
+  "ebucore:filename": "Bacchic_Feast_2017_0225.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

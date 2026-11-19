@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "498",
+  "schema:alternativeHeadline": "The J&F Martell Cognac coat of arms featuring a shield, eagle, and banners reading 'COGNAC' and '1715'.\n\nCircular illustration of a person tilting their head back to drink from a small glass held in their mouth.\n\nIllustration of three people in a vineyard with baskets, labeled WINES.",
+  "ebucore:filename": "Bacchic_Feast_2017_0498.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

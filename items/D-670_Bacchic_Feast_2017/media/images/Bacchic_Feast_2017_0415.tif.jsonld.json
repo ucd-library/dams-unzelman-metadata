@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "415",
+  "schema:alternativeHeadline": "A man operates a wooden fruit press on a porch, with a barrel and buckets nearby.\n\nDecorative illustration of wine bottles and a jug surrounded by grapevines and leaves.",
+  "ebucore:filename": "Bacchic_Feast_2017_0415.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

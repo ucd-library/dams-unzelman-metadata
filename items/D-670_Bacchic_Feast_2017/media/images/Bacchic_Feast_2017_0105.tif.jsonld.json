@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "105",
+  "schema:alternativeHeadline": "Dark blue cloth-bound book with gold lettering on the spine reading 'ORIGIN NATURE AND USE OF WINE' and a gold floral design on the front cover.\n\nDark book cover with gold text reading 'NEW EDITION HINTS FOR THE TABLE' and illustrations of a fork, plate, and knife.",
+  "ebucore:filename": "Bacchic_Feast_2017_0105.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

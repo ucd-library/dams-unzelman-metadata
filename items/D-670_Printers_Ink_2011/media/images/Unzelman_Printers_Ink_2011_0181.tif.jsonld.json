@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "181",
+  "schema:alternativeHeadline": "Book cover for 'The Great Wines of Germany' by André L. Simon and S. F. Hallgarten, featuring wine bottles and glasses.\n\nHardcover book titled 'Great Winds of Germany' by Andre L. Mignon and S.E. Buerksten, with a gray cover and white spine.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0181.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

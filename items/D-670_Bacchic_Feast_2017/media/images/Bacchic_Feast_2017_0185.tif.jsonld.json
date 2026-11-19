@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "185",
+  "schema:alternativeHeadline": "Green book cover with gold text reading 'MANUAL OF AMERICAN GRAPE-GROWING' and 'Hedrick', decorated with grape cluster motifs.\n\nHistoric black-and-white photograph of Niebaum's Winery near St. Helena, Calif., showing a large building with a central tower and ivy-covered walls.",
+  "ebucore:filename": "Bacchic_Feast_2017_0185.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

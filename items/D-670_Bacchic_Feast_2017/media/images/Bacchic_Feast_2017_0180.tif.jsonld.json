@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "180",
+  "schema:alternativeHeadline": "Painting of a grapevine branch with green and yellowing leaves and a curling tendril.\n\nTitle page of a book titled 'Cervisii Veterum' by Joan Henrici Meibomii, featuring ornate border and Latin text.",
+  "ebucore:filename": "Bacchic_Feast_2017_0180.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "028",
+  "schema:alternativeHeadline": "Two antique leather-bound books standing upright, the left spine reading \"BORDEAUX AND ITS WINES.\"\n\nA dark blue cloth-bound book with gold lettering on the spine reading 'COLE'S FRUIT BOOK' and a gold-embossed fruit bowl on the front cover.",
+  "ebucore:filename": "Bacchic_Feast_2017_0028.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

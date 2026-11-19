@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "510",
+  "schema:alternativeHeadline": "Black cloth book spine with gold text reading \"PERCY MORGAN & C.W.A.\" next to a marbled paper edge.\n\nBook cover for Mallette Dean: Artist & Printer, featuring a green upper section and a white lower section with a printer's device and text.\n\nGreen book cover titled 'The Story of Wente Wines' featuring an oval illustration of a vineyard worker and the text 'Wente Bros.'",
+  "ebucore:filename": "Bacchic_Feast_2017_0510.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

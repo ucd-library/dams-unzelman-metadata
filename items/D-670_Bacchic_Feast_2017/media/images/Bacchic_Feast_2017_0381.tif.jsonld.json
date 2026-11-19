@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "381",
+  "schema:alternativeHeadline": "Lithograph of a man and woman harvesting grapes into a basket.\n\nLithograph still life showing a pitcher, a basket of grapes, two long cylindrical objects, and a knife on a textured surface.",
+  "ebucore:filename": "Bacchic_Feast_2017_0381.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

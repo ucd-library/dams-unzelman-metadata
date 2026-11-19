@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "023",
+  "schema:alternativeHeadline": "Three dark-bound volumes titled 'The History of the Wine Trade in England' by A. L. Simon, with Volume I displayed front-facing.\n\nBook cover titled 'History of the Wine Trade in England' by Abbe L. Simon, featuring grapevine illustrations and a central circular emblem.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0023.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

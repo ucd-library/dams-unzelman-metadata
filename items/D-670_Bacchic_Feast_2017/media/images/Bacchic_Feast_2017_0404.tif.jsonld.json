@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "404",
+  "schema:alternativeHeadline": "Decorative poster for The Ninth Premiere National Auction of Rare Wines, held March 28, 1917, at the New York Club in London.\n\nA man in a wig and robe sits at a desk with a book and two cups.",
+  "ebucore:filename": "Bacchic_Feast_2017_0404.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "155",
+  "schema:alternativeHeadline": "A hardcover book standing upright with the title 'GHOSTS OF THE WORLD' visible on the spine.\n\nCover of the book 'Cheeses of the World' by André Simon, featuring stylized text and illustrations of a cheese wedge, wine bottle, and knife.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0155.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

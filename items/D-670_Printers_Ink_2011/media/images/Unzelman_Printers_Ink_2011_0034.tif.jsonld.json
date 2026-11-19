@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "034",
+  "schema:alternativeHeadline": "A book with a white cover and blue border, titled 'GENERAL JOFFRE' in red text with three fleur-de-lis symbols below the title.\n\nAn open book titled 'General Joffre by A French Gunner' with a portrait of a military officer and a decorative key in front.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0034.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

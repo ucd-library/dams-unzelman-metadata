@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "495",
+  "schema:alternativeHeadline": "Vintage poster for 'A Bibliography' by Maurice Healy, featuring a book-shaped container labeled 'Irish Wine' and 'We Settle Our Odd Volumes.'\n\nRectangular label with decorative border containing the text \"IRISH WINE\" in capital letters.\n\nAn open book and a row of standing books sit on a table next to a glass, with shelves of bottles in the background.",
+  "ebucore:filename": "Bacchic_Feast_2017_0495.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

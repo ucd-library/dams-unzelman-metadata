@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "221",
+  "schema:alternativeHeadline": "Book cover for 'The Common Sense of Wine' featuring Japanese text and an illustration of a person pouring wine from a barrel.\n\nRed book spine with gold Japanese text and the English title The Commonsense of Wine.",
+  "ebucore:filename": "Bacchic_Feast_2017_0221.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

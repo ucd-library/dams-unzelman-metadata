@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "Printer's ink : a bibliographic remembrance of André L. Simon and his written works",
+  "schema:creator": "Unzelman, Gail G.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2011"
+  },
+  "schema:publisher": "Nomis Press",
+  "schema:genre": "Bibliography.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/7755"
+    }
+  ],
+  "schema:identifier": [
+    "D-670_Printers_Ink_2011"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-670_Printers_Ink_2011.pdf"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/Unzelman_Printers_Ink_2011_0001.tif"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "436",
+  "schema:alternativeHeadline": "A rectangular metal plaque with the embossed text \"SUNLIGHT and WATER\" on a dark background.\n\nThree book spines: 'A Toast to Eclipse' by McGinty, 'The Wine of the Gods' by Seniw, and 'Strong Wine' by McGinty.",
+  "ebucore:filename": "Bacchic_Feast_2017_0436.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

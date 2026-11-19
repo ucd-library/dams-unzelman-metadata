@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "149",
+  "schema:alternativeHeadline": "Cover of 'The Gourmet's Week-End Book' by André Simon, featuring a red line drawing of a figure with a basket.\n\nA hardcover book with a maroon and gray cover, featuring a white label on the spine that reads 'THE SOCIETY'S FRIENDLY WORK' and 'JAMES L. SIMON'.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0149.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

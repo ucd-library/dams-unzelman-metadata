@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "150",
+  "schema:alternativeHeadline": "A tan book cover with green decorative borders and the title \"American Vines.\" in black script.\n\nDark book cover with gold text reading \"THE VINICULTURE OF CLARET\"",
+  "ebucore:filename": "Bacchic_Feast_2017_0150.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

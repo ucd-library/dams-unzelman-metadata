@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "093",
+  "schema:alternativeHeadline": "Title page for Section 1, Sauces, from A Concise Encyclopaedia of Gastronomy, published by The Wine and Food Society, London.\n\nA row of nine vintage hardcover books, with the front cover reading 'A Concise Encyclopaedia of Gastronomy: Wine'.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0093.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

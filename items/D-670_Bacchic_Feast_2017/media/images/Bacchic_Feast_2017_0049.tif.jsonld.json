@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "049",
+  "schema:alternativeHeadline": "Technical illustrations of various wooden barrels, casks, and related equipment, labeled with figure numbers.\n\nEngraving of a workshop interior showing multiple workers performing various tasks at benches and around large barrels.\n\nTechnical illustrations of wooden barrels, staves, and circular head patterns labeled Fig. 12 through Fig. 24.\n\nEngraving of workers processing materials in barrels and vats inside a workshop with an outdoor yard.\n\nTechnical diagrams labeled Fig. 12 through Fig. 27 showing various barrel components, hoops, and staves.",
+  "ebucore:filename": "Bacchic_Feast_2017_0049.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

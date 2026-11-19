@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "518",
+  "schema:alternativeHeadline": "Illustration of Hollis chalybea beetle, larva, and life stages on foliage and buds, with a fungus-killed beetle.\n\nEngraving of Phylloxera vastatrix showing a galled leaf, mother house, eggs, larvae, and adult females.",
+  "ebucore:filename": "Bacchic_Feast_2017_0518.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

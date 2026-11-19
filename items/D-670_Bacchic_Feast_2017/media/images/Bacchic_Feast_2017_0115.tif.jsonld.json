@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "115",
+  "schema:alternativeHeadline": "Gold-embossed book cover featuring a standing figure holding a staff, with the text 'FACTS ABOUT SHERRY' above and grapevines below.\n\nVintage book cover for 'Facts About Sherry' by Henry Vizetelly, featuring an illustration of a man holding a glass in a winery.\n\nBrown book cover with gold text reading 'FACTS ABOUT CHAMPAGNE AND OTHER SPARKLING WINES' and a cherub illustration.",
+  "ebucore:filename": "Bacchic_Feast_2017_0115.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

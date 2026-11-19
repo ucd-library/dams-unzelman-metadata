@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "504",
+  "schema:alternativeHeadline": "Cartoon titled 'The First Book of Wine' showing four people with speech bubbles praising the book next to a wine bottle.\n\nA man in a top hat and formal attire stands with one arm raised in a gesture.",
+  "ebucore:filename": "Bacchic_Feast_2017_0504.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "226",
+  "schema:alternativeHeadline": "Woodcut illustration of a woman in a bonnet holding a bunch of grapes, with a man, wine barrels, and a basket in the background.\n\nBlack book spine with gold text reading 'ROYAL SOCIETY OF ARTS JOURNAL 1967-68 VOLUME 116' and a gold emblem.",
+  "ebucore:filename": "Bacchic_Feast_2017_0226.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

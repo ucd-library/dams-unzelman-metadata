@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "487",
+  "schema:alternativeHeadline": "Vintage map of France with a banner reading 'CITY OF PARIS' above the title 'Price List of Wines and Liquors'. The image displays a stylized map of France highlighted in purple, surrounded by neighboring countries labeled in French, including 'BELGIQUE', 'ALLEMAGNE', 'SUISSE', 'ITALIE', and 'ESPAGNE'. A decorative compass rose is located in the upper left corner. Below the map, a purple ribbon banner contains the text 'CITY OF PARIS'. The lower section features the heading 'PRICE LIST OF' followed by 'Wines and Liquors' in a large script font, with 'City of Paris' and 'SAN FRANCISCO, CALIFORNIA' printed at the bottom.\n\nVintage-style map of France titled 'Les Vins de France' with wine region illustrations. An illustrated map of France in a vintage style, with the country shown in yellow against a gray background. The map is surrounded by a decorative border featuring grape and vine motifs. Various wine regions are marked with small illustrations of châteaux, wine bottles, and grapevines. Neighboring countries are labeled in French, including 'BELGIQUE,' 'ALLEMAGNE,' 'SUISSE,' 'ITALIE,' and 'ESPAGNE.' A banner at the bottom reads 'Les Vins de France.'",
+  "ebucore:filename": "Bacchic_Feast_2017_0487.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "322",
+  "schema:alternativeHeadline": "Gold chalice with a footed base, its bowl covered in dense relief scenes of figures, animals, and foliage.\n\nBook cover for 'Anciens Outils de la Vigne et de la Tonnellerie' by Robert Herman, featuring illustrations of vintage winemaking tools.",
+  "ebucore:filename": "Bacchic_Feast_2017_0322.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

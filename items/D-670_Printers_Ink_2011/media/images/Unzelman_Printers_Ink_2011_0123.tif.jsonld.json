@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "123",
+  "schema:alternativeHeadline": "A closed, maroon hardcover book with a textured cover and faint, illegible text on the front.\n\nA hardcover book titled 'A Dictionary of Gastronomy' by Joseph Blanc.\n\nA blue hardcover book titled 'A Pictorial Dictionary' standing upright on a gray surface.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0123.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

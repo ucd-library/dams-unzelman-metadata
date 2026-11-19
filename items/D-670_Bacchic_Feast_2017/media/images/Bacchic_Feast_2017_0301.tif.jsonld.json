@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "301",
+  "schema:alternativeHeadline": "A dark blue hardcover book titled 'Bordeaux and Its Wines' by Ch. Cocks & Ed. Férat, 2nd edition, resting on a red book.\n\nEngraving of the Château-Giscours estate with a large tree in the foreground and text identifying it as a 3rd classed growth.",
+  "ebucore:filename": "Bacchic_Feast_2017_0301.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

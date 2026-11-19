@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "086",
+  "schema:alternativeHeadline": "1532 title page titled \"Kellermaysterey\" showing a man working with wine barrels and a press.\n\nA 16th-century vinedresser in a hat tends vines on a trellis, with pruning tools lying on the ground nearby.\n\nA book titled 'Autobiography of a Vine' with a vine illustration on the cover, standing on a matching base.",
+  "ebucore:filename": "Bacchic_Feast_2017_0086.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "203",
+  "schema:alternativeHeadline": "A 1924 book titled 'The Book of the Queen's Dolls' House' with a gold-embossed royal monogram on its dark blue cover.\n\nTitle page for The Book of the Queen's Dolls' House, edited by A. C. Benson and Sir Lawrence Weaver.",
+  "ebucore:filename": "Bacchic_Feast_2017_0203.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

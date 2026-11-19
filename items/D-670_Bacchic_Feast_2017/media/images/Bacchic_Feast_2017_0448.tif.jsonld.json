@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "448",
+  "schema:alternativeHeadline": "A maroon book cover with horizontal grooves and a central rectangular panel featuring an ornate, interlaced monogram.\n\nDecorative grapevine illustration forming a circular shape above the text 'SINCE 1889'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0448.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

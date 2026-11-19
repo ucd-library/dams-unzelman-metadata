@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "118",
+  "schema:alternativeHeadline": "Vintage book cover for 'The Wines of France' by Louis and Arthur Vitzentelly, featuring three women in period dress.\n\nFirst page of a letter from a Member of Parliament to friends in the country, dated 1710.",
+  "ebucore:filename": "Bacchic_Feast_2017_0118.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

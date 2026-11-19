@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "142",
+  "schema:alternativeHeadline": "Brown leather book spine with gold lettering reading 'HISTORY OF SAULT LAKIE COUNTY CALUMET' and 'THE GREAT IRON RANGE OF THE UPPER PENINSULA OF MICHIGAN'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0142.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

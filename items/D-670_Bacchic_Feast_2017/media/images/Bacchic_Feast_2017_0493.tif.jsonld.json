@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "493",
+  "schema:alternativeHeadline": "Antique map of France showing regions, cities, and surrounding seas with decorative elements. This is a historical map of France, depicted in yellow with red borders, surrounded by the Atlantic Ocean, the Mediterranean Sea, and neighboring regions like Spain and Germany. The map includes labeled cities and regions such as Paris, Lyon, and Normandy, along with decorative compass roses and ships. A French proverb, 'Un Repas Sans vin est une journée Sans Soleil,' is inscribed at the bottom left.\n\nBook cover for Benjamin Franklin's On Wine, featuring a red silhouette of his profile.",
+  "ebucore:filename": "Bacchic_Feast_2017_0493.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

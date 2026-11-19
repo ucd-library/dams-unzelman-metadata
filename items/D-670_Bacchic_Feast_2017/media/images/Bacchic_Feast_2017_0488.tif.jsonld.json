@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "488",
+  "schema:alternativeHeadline": "Book cover for 'Wine and Poetry' by Everett Carter, featuring an engraving of a figure holding a wine glass and grapes.\n\nDecorative label reading 'The WINE CELLAR from BALZER'S Los Angeles, California' with an ornate urn illustration.",
+  "ebucore:filename": "Bacchic_Feast_2017_0488.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

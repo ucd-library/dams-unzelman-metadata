@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "056",
+  "schema:alternativeHeadline": "A bookplate with a coat of arms and the text 'JOHN HARVEY AND SONS LIMITED' next to a maroon leather-bound book spine.\n\nSpine of a brown leather-bound book with gold lettering reading 'RURAL ECONOMY' and '1806'.",
+  "ebucore:filename": "Bacchic_Feast_2017_0056.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

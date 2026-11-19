@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "152",
+  "schema:alternativeHeadline": "A dark brown hardcover book with a pink spine featuring gold lettering.\n\nA book titled 'Bibliotheca Gastronomica' by André L. Simon, with the subtitle 'A Compendium of Books and Documents on Gastronomy'.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0152.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

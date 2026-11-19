@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "The Gail Unzelman Library Catalogue: A Bacchic Feast",
+  "schema:creator": "Unzelman, Gail G.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "2017-02"
+  },
+  "schema:publisher": "Nomis Press",
+  "schema:description": "Digitization of an unbound copy in Gail Unzelman’s papers.",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1168260"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:identifier": [
+    "D-670_Bacchic_Feast_2017"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-670_Bacchic_Feast_2017.pdf"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/Bacchic_Feast_2017_0005.tif"
+  }
+}

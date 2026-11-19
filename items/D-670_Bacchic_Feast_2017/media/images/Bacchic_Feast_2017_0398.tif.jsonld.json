@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "398",
+  "schema:alternativeHeadline": "A maroon book cover with a green rectangular label in the center displaying the word \"Wines\" in white cursive script.\n\nMaroon book cover with gold text reading 'THE STORY of the VINE' and 'EDWARD R. EMERSON', featuring a central gold emblem of a winged figure above a grape cluster.",
+  "ebucore:filename": "Bacchic_Feast_2017_0398.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

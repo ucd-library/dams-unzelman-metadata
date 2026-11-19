@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "109",
+  "schema:alternativeHeadline": "Four vintage books titled 'From Vineyard to Decanter: A Book About Sherry' are displayed, with the front cover of the rightmost book visible.",
+  "ebucore:filename": "Bacchic_Feast_2017_0109.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

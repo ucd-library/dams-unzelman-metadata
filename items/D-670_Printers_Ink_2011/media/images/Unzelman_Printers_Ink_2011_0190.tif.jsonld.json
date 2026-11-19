@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "190",
+  "schema:alternativeHeadline": "Hardcover book titled 'Wines of the World' edited by Andre L. Simon, featuring a portrait and four small images on the cover.\n\nA wine display case containing twelve bottles with a yellow label reading 'WINES of the World' next to a purple book with the same title on its spine.",
+  "ebucore:filename": "Unzelman_Printers_Ink_2011_0190.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

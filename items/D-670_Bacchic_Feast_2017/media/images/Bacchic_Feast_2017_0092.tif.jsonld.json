@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "092",
+  "schema:alternativeHeadline": "Two dark-bound books standing upright, with the right spine reading 'ROBERTS BRITISH WINE MAKER AND DOMESTIC VITICULTURIST.'\n\nGold-tooled book spine reading 'NOTES FOR FARMERS AND THE FAMILY CIRCLE BY SIDON ROBINSON' with decorative panels.",
+  "ebucore:filename": "Bacchic_Feast_2017_0092.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}
