@@ -13,12 +13,15 @@
     "schema:Collection",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:name": "Gail Unzelman Manuscripts",
-  "schema:description": "Two Manuscripts by Gail Unzelman",
+  "schema:name": "Unzelman (Gail) Papers",
+  "schema:description": "Gail Unzelman is an author, publisher, and book collector. From 1990 to 2015, she served as the editor and publisher of the _Wayward Tendrils Quarterly_, a journal devoted to wine books, wine authors, wine libraries, bibliography, and all such matters relating to wine literature. At the same time, she managed the Wayward Tendrils Wine Book Collector’s Society, a group for wine writers and wine book collectors. She founded Nomis Press in 1990 for the purpose of publishing her book _Wine & Gastronomy: A New Short-Title Bibliography Guide Based on the André L. Simon Bibliothecas, Vinaria, Gastronomica, & Bacchica_. The press would eventually publish more than a dozen books on California wine, including histories of the El Dorado, Los Angeles, Napa, Sacramento, San Francisco, San Joaquin, and Sonoma viticultural districts.",
   "schema:identifier": [
     "D-670",
     "ark:/87293/d3mc8rs84"
   ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-11-20"
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1168260"

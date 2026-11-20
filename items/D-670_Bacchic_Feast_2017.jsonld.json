@@ -28,10 +28,13 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/1175907"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175995"
     }
   ],
   "schema:identifier": [
-    "D-670_Bacchic_Feast_2017",
+    "D-670",
     "ark:/87293/d3bz61k5x"
   ],
   "schema:license": {

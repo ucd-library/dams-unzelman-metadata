@@ -14,14 +14,13 @@
     "schema:ImageObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:name": "Printer's ink : a bibliographic remembrance of André L. Simon and his written works",
+  "schema:name": "Printer's Ink : A Bibliographic Remembrance of André L. Simon and His Written Works",
   "schema:creator": "Unzelman, Gail G.",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2011"
   },
   "schema:publisher": "Nomis Press",
-  "schema:genre": "Bibliography.",
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1168260"
@@ -31,10 +30,16 @@
     },
     {
       "@id": "http://id.worldcat.org/fast/7755"
+    },
+    {
+       "@id": "http://id.worldcat.org/fast/1919895"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175995"
     }
   ],
   "schema:identifier": [
-    "D-670_Printers_Ink_2011",
+    "D-670",
     "ark:/87293/d3gm82058"
   ],
   "schema:license": {

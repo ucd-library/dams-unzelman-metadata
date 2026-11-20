@@ -18,6 +18,14 @@
     "http://schema.org/name": "Wine and wine making"
   },
   {
+    "@id": "http://id.worldcat.org/fast/1175995",
+    "http://schema.org/name": "Wine writers"
+  },
+  {
+  "@id": "http://id.worldcat.org/fast/1919895",
+  "http://schema.org/name": "Bibliographies"
+  },
+  {
     "@id": "http://id.worldcat.org/fast/7755",
     "http://schema.org/name": "Simon, André Louis, 1877-1970"
   }
